@@ -8,6 +8,7 @@ My LeetCode solutions - Created using [LeetHub-3.0](https://github.com/raphaelhe
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/patrickmayr99-source/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/patrickmayr99-source/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/patrickmayr99-source/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,8 +21,14 @@ My LeetCode solutions - Created using [LeetHub-3.0](https://github.com/raphaelhe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/patrickmayr99-source/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/patrickmayr99-source/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/patrickmayr99-source/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/patrickmayr99-source/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/patrickmayr99-source/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
